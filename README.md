@@ -23,19 +23,15 @@ The aim of this project is to explore the relationship between different factors
 
 analysis-of-entrepreneurship-behaviour-using-ml/
 
-├── data/
-
-│   ├── gem_indicators.csv
-
-│   └── gem_metadata.csv
-
-├── notebooks/
-
-│   └── analysis.ipynb
-
-├── README.md
-
-└── requirements.txt
+    .
+    ├── ...
+    ├── docs                    # Documentation files (alternatively `doc`)
+    │   ├── TOC.md              # Table of contents
+    │   ├── faq.md              # Frequently asked questions
+    │   ├── misc.md             # Miscellaneous information
+    │   ├── usage.md            # Getting started guide
+    │   └── ...                 # etc.
+    └── ...
 
 
 
