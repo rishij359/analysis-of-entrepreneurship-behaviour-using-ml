@@ -25,13 +25,13 @@ analysis-of-entrepreneurship-behaviour-using-ml/
 
     .
     analysis-of-entrepreneurship-behaviour-using-ml/
-    ├── docs                    # Documentation files (alternatively `doc`)
-    │   ├── TOC.md              # Table of contents
-    │   ├── faq.md              # Frequently asked questions
-    │   ├── misc.md             # Miscellaneous information
-    │   ├── usage.md            # Getting started guide
-    │   └── ...                 # etc.
-    └── ...
+    ├── data/
+    │   ├── gem_indicators.csv
+    │   └── gem_metadata.csv
+    ├── notebooks/
+    │   └── analysis.ipynb
+    ├── README.md
+    └── requirements.txt
 
 
 
