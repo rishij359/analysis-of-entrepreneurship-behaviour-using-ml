@@ -24,7 +24,7 @@ The aim of this project is to explore the relationship between different factors
 analysis-of-entrepreneurship-behaviour-using-ml/
 
     .
-    ├── ...
+    analysis-of-entrepreneurship-behaviour-using-ml/
     ├── docs                    # Documentation files (alternatively `doc`)
     │   ├── TOC.md              # Table of contents
     │   ├── faq.md              # Frequently asked questions
